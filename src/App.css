@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.mb-0{
+  margin-bottom: 0 !important;
+}
+svg{
+  margin-top: 8px
+}
+
+.interval{
+  margin-top: -8px !important
+}
+
+button{
+  height:2em;
+  padding:0;
+  border:0;
+  margin-top:-20px !important;
+  background-color: white;
+}
